@@ -27,9 +27,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".home.RecyclerViewAdapter"></activity>
-        <activity android:name=".home.RecycleViewAdapter" />
-        <activity android:name=".home.Course_Activity" />
+        <activity android:name=".Course.RecyclerViewAdapter_busan_1n2d1"></activity>
+        <activity android:name=".Course.Course_Activity_busan_1n2d1" />
         <activity
             android:name=".LoadingActivity"
             android:label="@string/app_name"
